@@ -14,3 +14,9 @@
 > [RobotMono Github Repo](https://github.com/googlefonts/RobotoMono)
 
 ![RobotMono](./robotmono/robotmono.png)
+
+
+### Inconsolata
+> [Inconsolata Github Repo](https://github.com/googlefonts/Inconsolata)
+
+![Inconsolata](./inconsolata/Inconsolata-Regular.png)
