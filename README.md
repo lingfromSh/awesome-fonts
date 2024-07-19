@@ -20,3 +20,8 @@
 > [Inconsolata Github Repo](https://github.com/googlefonts/Inconsolata)
 
 ![Inconsolata](./inconsolata/Inconsolata-Regular.png)
+
+### Hack
+> [Hack Github Repo](https://github.com/source-foundry/Hack)
+
+![Hack](./hack/hack.png)
